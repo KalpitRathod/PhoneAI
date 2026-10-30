@@ -1,0 +1,52 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+app/build/
+.gradle/
+.kotlin/
+
+# Local configuration file (sdk path, credentials)
+local.properties
+
+# Proguard / R8
+proguard/
+
+# Log Files
+*.log
+
+# Android Studio & IntelliJ
+*.iml
+.idea/
+.navigation/
+captures/
+*.iws
+
+# OS & Temp files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# LLM Weights & Offline Datasets (Download separately or via Hugging Face)
+*.gguf
+*.bin
+*.task
+*.zim
+*.tflite
+*.onnx
+*.safetensors
+*.pt
+*.pth

@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Royal Boxy Theme for PhoneAI Physics Community -->
+    <style name="Theme.PhoneAI" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/royal_blue</item>
+        <item name="colorPrimaryInverse">@color/royal_blue_light</item>
+        <item name="colorSecondary">@color/royal_gold</item>
+        <item name="colorTertiary">@color/royal_purple</item>
+        
+        <item name="android:statusBarColor">@color/royal_bg</item>
+        <item name="android:navigationBarColor">@color/royal_surface</item>
+        <item name="android:windowBackground">@color/royal_bg</item>
+
+        <item name="android:forceDarkAllowed" tools:targetApi="q">true</item>
+    </style>
+</resources>
